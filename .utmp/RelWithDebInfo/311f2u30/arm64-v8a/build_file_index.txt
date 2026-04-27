@@ -1,0 +1,2 @@
+/Users/apatterson29/Desktop/Game Projects/GitHub/zombie-toys-vr-2025-gambit-192/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/apatterson29/Desktop/Game Projects/GitHub/zombie-toys-vr-2025-gambit-192/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

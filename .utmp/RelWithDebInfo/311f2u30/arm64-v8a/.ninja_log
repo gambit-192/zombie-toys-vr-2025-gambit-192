@@ -1,0 +1,10 @@
+# ninja log v5
+1	928	1774020138304408315	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dda5171934cbd6f
+0	937	1774020138308411925	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7675eac13bd45b6b
+1	979	1774020138352187131	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5bae04abb0d0615b
+0	1000	1774020138375483583	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5f1f302c9f93def8
+0	1064	1774020138440706164	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e9252fe7bccc6d23
+1	1118	1774020138481974921	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3003bdf1b23051e4
+1	1257	1774020138634904829	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	678dc41fbfc22414
+0	1334	1774020138710866868	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e0d5b5154424dc63
+1334	1467	1774020138845064557	/Users/apatterson29/Desktop/Game Projects/GitHub/zombie-toys-vr-2025-gambit-192/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/311f2u30/obj/arm64-v8a/libgame.so	d20469dbe7099ef9
