@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Box
   - Trail
+  - Book of Lore
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
-  - 
+  - Blockable
+  - Shootable
   - 
   - 
   - 
